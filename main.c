@@ -1,3 +1,13 @@
+/**
+@bierf Lo que realiza el programa es cambiar el bit seleccionado
+@param set_bit32 es la funcion que realiza el cambio
+@returns int 
+
+*/
+
+
+
+
 #include <stdio.h>
 #include <stdint.h>
 
